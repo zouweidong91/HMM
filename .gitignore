@@ -1,0 +1,14 @@
+.git
+
+.env
+jupyter-env
+.ipynb_checkpoints
+logs
+
+*.log
+help/local_*
+vendor
+.DS_Store
+__pycache__
+*.pyc
+*_train_text.txt
